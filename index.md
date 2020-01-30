@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+<a href="{{site.baseurl}}/about">testurl</a>
